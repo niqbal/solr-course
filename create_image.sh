@@ -1,0 +1,1 @@
+tar -czpf edu_solr.tar.gz Dockerfile core.properties schema.xml solrconfig.xml 
